@@ -1,0 +1,37 @@
+.Navbar {
+  height:40px;
+  background-color:#6E6658;
+}
+
+.Navbar-home {
+  float:left;
+  padding:9px;
+}
+
+.Navbar-home a {
+  text-decoration: none;
+  padding-left:20px;
+  color:white
+}
+
+.Navbar-home a:hover {
+  background-color: #4F4A41;
+}
+
+.Navbar-navigation {
+  padding:9px;
+  float:right;
+}
+
+.Navbar-navigation a {
+  text-decoration: none;
+  display:inline;
+  text-align: center;
+
+  padding: 10px;
+  color:white
+}
+
+.Navbar-navigation a:hover {
+  background-color: #4F4A41;
+}

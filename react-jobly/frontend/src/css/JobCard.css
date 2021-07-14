@@ -1,0 +1,16 @@
+.JobCard {
+    background-color: #112D32;
+    color:white;
+    height:130px;
+    border-radius: 5px;;
+    box-shadow:0 4px 8px 0 #112D32, 0 6px 20px 0 #254E58
+}
+
+.JobCard:hover {
+    background-color: #254E58;
+    color:white;
+}
+
+.JobCard-apply {
+    float:right
+}
